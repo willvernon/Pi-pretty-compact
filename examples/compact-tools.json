@@ -1,0 +1,8 @@
+{
+  "style": "compact",
+  "mode": "normal",
+  "thinking": true,
+  "working": false,
+  "tools": ["read", "write", "edit", "bash", "grep", "find", "ls"],
+  "custom_tools": { "enabled": true, "auto_compact": true, "exclude": [] }
+}

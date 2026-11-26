@@ -1,0 +1,16 @@
+{
+	"name": "pi-pretty-compact",
+	"version": "0.1.0",
+	"private": true,
+	"description": "pi-pretty's prompt box, user prefix, user rail and working shimmer, built to run beside pi-compact-tools.",
+	"type": "module",
+	"license": "MIT",
+	"keywords": ["pi-package", "pi-extension", "pi-coding-agent"],
+	"pi": {
+		"extensions": ["./index.ts"]
+	},
+	"peerDependencies": {
+		"@earendil-works/pi-coding-agent": "*",
+		"@earendil-works/pi-tui": "*"
+	}
+}

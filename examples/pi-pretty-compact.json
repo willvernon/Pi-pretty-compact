@@ -1,0 +1,10 @@
+{
+  "prompt": { "boxed": true, "userIcon": true },
+  "workingIndicator": {
+    "enabled": true,
+    "mode": "shimmer",
+    "text": ["Working"],
+    "sessionAccent": true,
+    "intervalMs": 33
+  }
+}
